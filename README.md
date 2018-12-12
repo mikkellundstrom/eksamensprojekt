@@ -1,2 +1,0 @@
-# eksamensprojekt
-Til eksamensprojekt1
